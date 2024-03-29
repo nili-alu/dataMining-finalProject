@@ -3,7 +3,7 @@
 Link of:
   #### model: https://drive.google.com/file/d/1plNubRyzPxfjfON8V6t8VDzQuYn6ZYsa/view?usp=sharing
   #### google colob: https://colab.research.google.com/drive/158Xboen3CYAknbaBRSMcmY1YwFG70MHM#scrollTo=QdFOkM0YqVl9
-  #### Deployed app: https://nili-alu-ai-heart-diseasemodel-streamapp-ut0ovl.streamlit.app/
+  #### Deployed app: https://heart-disease-predictor-app.streamlit.app/
   #### video of how the app work: 
 
 
@@ -11,11 +11,10 @@ Link of:
 
   1. git clone this repo
   2. open the cloned directory in editor(eg:Vscode or pycharm)
-  3. run: - `pip install -r requirements.txt`
-          - `streamlit run app.py`
-     it should open streamlit app on browser
-          
-          
+  3. run:
+     - `pip install -r requirements.txt`
+     - `streamlit run app.py`
+     - it should open streamlit app on browser
           
    
 # how to host streamlit app
