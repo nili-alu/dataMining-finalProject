@@ -4,7 +4,7 @@ Link of:
   #### model: https://drive.google.com/file/d/1plNubRyzPxfjfON8V6t8VDzQuYn6ZYsa/view?usp=sharing
   #### google colob: https://colab.research.google.com/drive/158Xboen3CYAknbaBRSMcmY1YwFG70MHM#scrollTo=QdFOkM0YqVl9
   #### Deployed app: https://heart-disease-predictor-app.streamlit.app/
-  #### video of how the app work: 
+  #### video of how the app work: https://youtu.be/PfYi5yTzYz4
 
 
 # how this manuel tested on local machine:
